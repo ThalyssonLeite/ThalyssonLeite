@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/ThalyssonLeite">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franssa01&layout=compact&langs_count=7&theme=midnight-purple"/>
+ [![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalyssonLeite&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
  <div>
