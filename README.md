@@ -1,13 +1,17 @@
 ### </b>Hi there</b> I'm using Whatsapp... wait a sec...
 
-		Como pessoa sempre fui muito extrovertido, comunicativo e empático, gosto muito de tirar tempo para conhecer bem as pessoas e de passar adiante o que já aprendi.
-		Na vida profissional tentei muitas coisas até me encontrar na programação. Posso dizer que procuro fazer de tudo pra que o que eu entrego não seja medíocre, para tentar ficar empolgado com o que estou entregando.
-		Foquei na base do conhecimento Web, gosto de estudar como as coisas são feitas por baixo de camadas e camadas de abstração, o que me faz ser uma pessoa versátil quando preciso aprender novos frameworks e linguagens, porque consigo enxergar o que há abaixo das camadas de abstração.
-		Adquiri um conhecimento sólido do Javascript em áreas como programação funcional, code smell, herança protorípica, clojures, tratamento de dados, etc. No campo de manipulação do DOM com Javascript puro e um pouco de HTML e CSS já construí Pie charts, sistemas de Drag and Drop onde as sombras dos elementos se movem em eixos específicos, componentes de Paginação versáteis e utilizo da técnica FLIP (First Last Invert Play) para animações complexas a 60fps.
-		Sou capaz de reproduzir qualquer layout usando CSS puro. Atualmente utilizo SCSS como preprocessador e SMACSS e BEM para compor os estilos.
-		Construí pequenas aplicações com Javascript puro que me deram noções importantes do porquê utilizamos frameworks e quais dores eles resolvem.
-		Estou sempre em busca de melhorar minhas técnicas e a qualidade do meu código e sempre estou ansioso por maneiras mais performáticas e limpas de se fazer as coisas.
-		Continuo sendo apenas um projeto em construção, e entendo que uma das qualidades mais importantes que eu posso almejar enquanto profissional é ser humilde; faculdade nenhuma pode me ensinar isso.
+Como pessoa sempre fui muito extrovertido, comunicativo e empático, gosto muito de tirar tempo para conhecer bem as pessoas e de passar adiante o que já aprendi.
+
+Foquei na base do conhecimento Web, gosto de estudar como as coisas são feitas por baixo de camadas e camadas de abstração, o que me faz ser uma pessoa versátil quando preciso aprender novos frameworks e linguagens, porque consigo enxergar o que há abaixo das camadas de abstração.
+
+Adquiri um conhecimento sólido do Javascript em áreas como programação funcional, code smell, herança protorípica, clojures, tratamento de dados, etc. No campo de manipulação do DOM com Javascript puro e um pouco de HTML e CSS já construí Pie charts, sistemas de Drag and Drop onde as sombras dos elementos se movem em eixos específicos, componentes de Paginação versáteis e utilizo da técnica FLIP (First Last Invert Play) para animações complexas a 60fps.
+
+Sou capaz de reproduzir qualquer layout usando CSS puro. Atualmente utilizo SCSS como preprocessador e SMACSS e BEM para compor os estilos.
+
+Construí pequenas aplicações com Javascript puro que me deram noções importantes do porquê utilizamos frameworks e quais dores eles resolvem.
+
+Estou sempre em busca de melhorar minhas técnicas e a qualidade do meu código e sempre estou ansioso por maneiras mais performáticas e limpas de se fazer as coisas.
+Continuo sendo apenas um projeto em construção, e entendo que uma das qualidades mais importantes que eu posso almejar enquanto profissional é ser humilde; faculdade nenhuma pode me ensinar isso.
     
  [![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
     
