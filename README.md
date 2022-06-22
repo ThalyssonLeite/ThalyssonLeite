@@ -13,7 +13,7 @@ Construí pequenas aplicações com Javascript puro que me deram noções import
 Estou sempre em busca de melhorar minhas técnicas e a qualidade do meu código e sempre estou ansioso por maneiras mais performáticas e limpas de se fazer as coisas.
 Continuo sendo apenas um projeto em construção, e entendo que uma das qualidades mais importantes que eu posso almejar enquanto profissional é ser humilde; faculdade nenhuma pode me ensinar isso.
     
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+<div align="center">
     
  [![Thalysson Leite's github stats](https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) 
  
