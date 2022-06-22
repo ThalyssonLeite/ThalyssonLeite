@@ -13,7 +13,7 @@ Construí pequenas aplicações com Javascript puro que me deram noções import
 Estou sempre em busca de melhorar minhas técnicas e a qualidade do meu código e sempre estou ansioso por maneiras mais performáticas e limpas de se fazer as coisas.
 Continuo sendo apenas um projeto em construção, e entendo que uma das qualidades mais importantes que eu posso almejar enquanto profissional é ser humilde; faculdade nenhuma pode me ensinar isso.
     
- [!Thalysson Leite's github stats](https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Thalysson Leite's github stats](https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalyssonLeite&exclude_repo=ThalyssonLeite,Mett-certificados-page,Socialmedia-editor,learning-typescript,JSRaiz,sr-only,teste-tecnico-inicia,AlgoMania,Rocket.q,Code,Barbecuemeter,Ovonaldo&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
     
