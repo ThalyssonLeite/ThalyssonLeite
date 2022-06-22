@@ -23,7 +23,7 @@ Continuo sendo apenas um projeto em construção, e entendo que uma das qualidad
 </div>
   
  <div>
-   <h2>🖥 &nbsp;Languages & Social Media</h2>
+   <h2>🖥 &nbsp;Languages</h2>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -45,6 +45,8 @@ Continuo sendo apenas um projeto em construção, e entendo que uma das qualidad
 </div>
 
   <div> 
+    <h2>👍 &nbsp;Social Media</h2>
+    
   <a href="https://www.linkedin.com/in/thalysson-leite-7238491a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div
     
