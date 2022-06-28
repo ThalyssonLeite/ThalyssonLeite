@@ -8,7 +8,7 @@ Adquiri um conhecimento sólido do Javascript em áreas como programação funci
 
 Sou capaz de reproduzir qualquer layout usando CSS puro. Atualmente utilizo SCSS como preprocessador e SMACSS e BEM para compor os estilos.
 
-Construí pequenas aplicações com Javascript puro que me deram noções importantes do porquê utilizamos frameworks e quais dores eles resolvem.
+Construí pequenas aplicações com Javascript puro que me deram noções importantes do porquê utilizamos frameworks e quais dores eles resolvem. Também possuo inglês avançado.
 
 Estou sempre em busca de melhorar minhas técnicas e a qualidade do meu código e sempre estou ansioso por maneiras mais performáticas e limpas de se fazer as coisas.
 Continuo sendo apenas um projeto em construção, e entendo que uma das qualidades mais importantes que eu posso almejar enquanto profissional é ser humilde; faculdade nenhuma pode me ensinar isso.
