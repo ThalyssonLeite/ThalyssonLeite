@@ -2,7 +2,7 @@
 
 Como pessoa sempre fui muito extrovertido, comunicativo e empático, gosto muito de tirar tempo para conhecer bem as pessoas e de passar adiante o que já aprendi.
 
-Foquei na base do conhecimento Web, gosto de estudar como as coisas são feitas por baixo de camadas e camadas de abstração, o que me faz ser uma pessoa versátil quando preciso aprender novos frameworks e linguagens.
+Além da experiência em construir SPAs com Angular, foquei na base do conhecimento Web, gosto de estudar como as coisas são feitas por baixo de camadas e camadas de abstração, o que me faz ser uma pessoa versátil quando preciso aprender novos frameworks e linguagens.
 
 Adquiri um conhecimento sólido do Javascript em áreas como programação funcional, code smell, herança protorípica, clojures, tratamento de dados, etc. No campo de manipulação do DOM com Javascript puro e um pouco de HTML e CSS já construí Pie charts, sistemas de Drag and Drop onde as sombras dos elementos se movem em eixos específicos, componentes de Paginação versáteis e utilizo da técnica FLIP (First Last Invert Play) para animações complexas a 60fps.
 
